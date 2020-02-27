@@ -1,0 +1,7 @@
+1. The terminal to me is just a way to enter information and make files or do things faster than you could on the regular files in the cp.
+
+2. Github is where you can get resources or share things and Git is a Distributed Version Control tool that can store multiple versions of a file.
+
+3. We use Github so we can share files with people in public since it's one of the largest coding communities around.
+
+ 
